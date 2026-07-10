@@ -1,5 +1,5 @@
-{
-  "version": "1.3.9",
-  "installerUrl": "https://raw.githubusercontent.com/oemin925-ui/ozpos-updates/main/OzPOS-Setup-latest.exe",
-  "sha256": "6D6D0B516A8A920AD5F7C572DD1A7C563C5B68DEC52976BF17C09E21D67460C4"
+﻿{
+    "version":  "1.3.10",
+    "installerUrl":  "https://raw.githubusercontent.com/oemin925-ui/ozpos-updates/main/OzPOS-Setup-latest.exe",
+    "sha256":  "992A2418AEC946909C4F2288683EE0BD1C0795A8BF1D06A15F216401072968F1"
 }
